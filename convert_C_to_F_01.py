@@ -21,11 +21,11 @@
 
 
 
-Celcius = float(input('Enter a temperature in Celcius: '))
+Celsius = float(input('Enter a temperature in Celsius: '))
 
-C_to_F = Celcius * 9/5 + 32
+C_to_F = Celsius * 9/5 + 32
 print()
-print(f'{Celcius} degrees Celcius is {C_to_F} degrees Fahrenheit.')
+print(f'{Celsius} degrees Celsius is {C_to_F} degrees Fahrenheit.')
 
 
 
