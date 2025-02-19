@@ -2,7 +2,7 @@
 
 # NAME: Sheri Facey
 # DATE: 02/18/2025
-# BRIEF DESCRIPTION: Converting Celcius to Farenheit 
+# BRIEF DESCRIPTION: Converting Celcius to Fahrenheit 
 
 
 
@@ -25,7 +25,7 @@ Celcius = float(input('Enter a temperature in Celcius: '))
 
 C_to_F = Celcius * 9/5 + 32
 print()
-print(f'{Celcius} degrees Celcius is {C_to_F} degrees Farenheit.')
+print(f'{Celcius} degrees Celcius is {C_to_F} degrees Fahrenheit.')
 
 
 
